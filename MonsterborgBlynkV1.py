@@ -4,7 +4,7 @@
 # Auteur    : Patrick Pinard
 # Date      : 14.5.2020
 # Objet     : Télécommander un MonsterBorg avec APP Blynk 
-# Source    : \Dropbox\Python\Telsa\MonsterBorgV1.py
+# Source    : MonsterBorgV1.py
 # Version   : 1
 # Change log: 
 #               - V0.6 : Usage du Joystick pour gestion analogique de la vitesse moteur et ajusteement des paramètres dynamiques sur onglet"paramètres"
