@@ -9,6 +9,16 @@ smartphone. Le véhicule doit être piloté à distance grâce aux réseaux Wifi
 Une solution de vidéo à distance doit permettre de visualiser la route et converser avec des personnes sur le chemin.
 
 # Véhicule : PiBorg MonsterBorg
-Ce « buggy » est reconnu comme la solution la plus robuste et intéressante pour des projets de développements avec le Raspberry Pi. Il est solide et dispose de 4 moteurs puissants et d’une carte de contrôle de ceux-ci très puissante. Une librairie Python et C++ est disponible pour Raspberry ou Arduino ou autres cartes contrôleurs.
+Ce « buggy » est reconnu comme la solution la plus robuste et intéressante pour des projets de développements avec le Raspberry Pi. Il est solide et dispose de 4 puissants moteurs. Une librairie Python et C++ est disponible pour Raspberry ou Arduino.
 
-![](images/)
+![](images/Monsterborg.png)
+
+https://www.piborg.org/robots-1/monsterborg
+
+# Cartes de contrôle des moteurs : PiBorg ThunderBorg
+La carte ThunderBorg de PiBorg permet de gérer 4 moteurs avec une puissance de sortie de 7 à 35V sous 5A.
+
+![](images/Thunderborg.png)
+
+https://www.piborg.org/motor-control-1135/thunderborg
+
