@@ -26,8 +26,9 @@ https://www.piborg.org/motor-control-1135/thunderborg
 
 L’assemblage du MonsterBorg est décrit sous :
     https://www.piborg.org/blog/monsterborg-build-instructions
-    
-    
+
+![](Monsterborg2.png)
+
 # Configuration du Raspberry Pi 4
 Mise à jour du Raspberry Pi 4 avec les dernières versions logicielles :
     sudo apt-get update
