@@ -1,5 +1,5 @@
 # MonsterBorg-Blynk
-Voiture électrique Monsterborg contrôlée via l'APP Blynk
+Voiture électrique de type Monsterborg contrôlée via l'APP Blynk.
 
 Ce projet consiste à regrouper différentes technologies pour piloter un véhicule électrique grâce à une application simple 
 sous iPhone/Android.
@@ -72,3 +72,6 @@ Blynk APP : L’application utilisée pour télécommander le MonsterBorg est ba
 
 ![](images/BlynkApp.png)
 
+Variante avec joystick (valeur analogique)
+
+![](Blynk2.png)
