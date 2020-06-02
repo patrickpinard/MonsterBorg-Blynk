@@ -11,7 +11,7 @@ Une solution de vidéo à distance doit permettre de visualiser la route et conv
 # Véhicule : PiBorg MonsterBorg
 Ce « buggy » est reconnu comme la solution la plus robuste et intéressante pour des projets de développements avec le Raspberry Pi. Il est solide et dispose de 4 puissants moteurs. Une librairie Python et C++ est disponible pour Raspberry ou Arduino.
 
-![](images/MonsterborgV1.png)
+![](images/MonsterBorgV1.png)
 
 https://www.piborg.org/robots-1/monsterborg
 
