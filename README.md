@@ -68,7 +68,15 @@ Montage de la carte ThunderBorg:
     https://www.piborg.org/blog/monsterborg-getting-started
     
 # PROGRAMMATION
-Blynk APP : L’application de base avec des boutons ON/OFF utilisée pour télécommander le MonsterBorg est basée sur Blynk.
+
+Blynk : https://blynk.io/
+
+Documentation : http://docs.blynk.cc/
+
+Blynk est un service IoT dans le Cloud qui fourni des outils pour s'interfacer avec des microcontroleurs du type Arduino ou Raspberry Pi par exemple (non exhaustif). Il est facile à utiliser et dispose de libraiaire Python ou C#.
+
+Nous avons créer une première APP de base pour comprendre les mécanismes.L’application de base avec des boutons ON/OFF utilisée pour télécommander le MonsterBorg est basée sur Blynk. 
+
 Solution pas très élégante car les moteurs sont actionnés ou éteints, pas de valeurs intermédiaires pour réduire la vitesse.
 
 ![](images/BlynkApp.png)
