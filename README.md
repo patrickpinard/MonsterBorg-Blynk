@@ -67,7 +67,7 @@ par
 Montage de la carte ThunderBorg: 
     https://www.piborg.org/blog/monsterborg-getting-started
     
-# PROGRAMMATION
+# Interface APP mobile avec Blynk
 
 Blynk : https://blynk.io/
 
@@ -84,3 +84,8 @@ Solution pas très élégante car les moteurs sont actionnés ou éteints, pas d
 Variante avec joystick (valeur analogique) permettant de contrôler la vitesse des moteurs pour avancer/reculer et tourner rapidement ou lentement gauche/droite.
 
 ![](images/BlynkApp2.png)
+
+# Next step
+
+La prochaine version (V2) devra inclure une caméra embarquée et pouvoir être pilotée à distance au travers du réseau 4G/5G....
+Stay tune !
