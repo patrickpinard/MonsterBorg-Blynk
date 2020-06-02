@@ -6,7 +6,8 @@
 # Objet     : Télécommander un MonsterBorg avec APP Blynk 
 # Source    : MonsterBorgV1.py
 # Version   : 1
-# Change log: 
+# Change log:   - V0.8 : modification pour retour en mode Joystick sur Blynk (valeur analogique 0-10)
+#               - V0.7 : usage de l'App Blynk en mode binaire avec boutons ON/OFF (0/1)
 #               - V0.6 : Usage du Joystick pour gestion analogique de la vitesse moteur et ajusteement des paramètres dynamiques sur onglet"paramètres"
 #               - V0.4/V0.5 : alimentation des moteurs et Raspberry Pi 4 très consomateur (5V/3A). Problème avec 10 batteries 1,5V (AAA) car pas suffisant
 #                 compléter alimentation par PowerPack USB-C de 5V/3A - 15W pour le Raspberry Pi 4. Plus de problème de coupure de liaison lorsque moteurs en fonction.
@@ -29,7 +30,7 @@ import time
 import ThunderBorg3 as ThunderBorg
 
 # Clé d'accès à Blynk sketch
-BLYNK_AUTH = 'clé Blynk'
+BLYNK_AUTH = 'votre clé Blynk'
 
 # Paramètres et variables
 global vitesse
