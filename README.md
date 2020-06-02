@@ -68,10 +68,11 @@ Montage de la carte ThunderBorg:
     https://www.piborg.org/blog/monsterborg-getting-started
     
 # PROGRAMMATION
-Blynk APP : L’application utilisée pour télécommander le MonsterBorg est basée sur Blynk.
+Blynk APP : L’application de base avec des boutons ON/OFF utilisée pour télécommander le MonsterBorg est basée sur Blynk.
+Solution pas très élégante car les moteurs sont actionnés ou éteints, pas de valeurs intermédiaires pour réduire la vitesse.
 
 ![](images/BlynkApp.png)
 
-Variante avec joystick (valeur analogique)
+Variante avec joystick (valeur analogique) permettant de contrôler la vitesse des moteurs pour avancer/reculer et tourner rapidement ou lentement gauche/droite.
 
 ![](images/BlynkApp2.png)
