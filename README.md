@@ -22,3 +22,10 @@ La carte ThunderBorg de PiBorg permet de gérer 4 moteurs avec une puissance de 
 
 https://www.piborg.org/motor-control-1135/thunderborg
 
+# Assemblage MonsterBorg
+
+L’assemblage du MonsterBorg est décrit sous :
+    https://www.piborg.org/blog/monsterborg-build-instructions
+    
+Montage de la carte ThunderBorg: 
+    https://www.piborg.org/blog/monsterborg-getting-started
