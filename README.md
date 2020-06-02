@@ -74,4 +74,4 @@ Blynk APP : L’application utilisée pour télécommander le MonsterBorg est ba
 
 Variante avec joystick (valeur analogique)
 
-![](Blynk2.png)
+![](images/Blynk2.PNG)
