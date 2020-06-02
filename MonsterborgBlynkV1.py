@@ -63,13 +63,13 @@ interval = 0.1                         # Intervalle d'attente entre deux command
 global maxPower
 
 # Puissance des batteries moteurs
-voltageIn = 1.2 * 10                   # Voltage des batteries pour le ThunderBorg (10 piles de 1,5V = 12V)
+voltageIn = 1.2 * 10                   # Voltage des batteries pour le ThunderBorg
 voltageOut = 12.0 * 0.95               # Voltage maximum à 95% pour ne pas interrompre le Raspberry Pi (pas possible avec version Pi 4)
 
 print("--------------------------------")
 print("    Projet TELSA                ")
 print("    Jonathan & Patrick Pinard   ")
-print("    version 6.0 / 16 mai 2020   ")
+print("    version 1.0 / 15 mai 2020   ")
 print("    Véhicule télécommandé       ")
 print("    MonsterBorg/Raspberyy Pi 4  ")
 print("    via APP Blynk Cloud IoT     ")
