@@ -88,4 +88,4 @@ Variante avec joystick (valeur analogique) permettant de contrôler la vitesse d
 # Next step
 
 La prochaine version (V2) devra inclure une caméra embarquée et pouvoir être pilotée à distance au travers du réseau 4G/5G....
-Stay tune !
+Stay tune ! disponible maintenant ici : https://github.com/patrickpinard/MonsterBorg2
